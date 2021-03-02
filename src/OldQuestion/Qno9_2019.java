@@ -32,6 +32,8 @@ public class Qno9_2019 extends JFrame{
 			  jtf2.setBounds(100,80,200,20);
 			  jf.add(jtf2);
 			  
+			  
+			  
 			  jb1=new JButton("Area");
 			  jb1.setBounds(100,120,100,20);
 			  jf.add(jb1);

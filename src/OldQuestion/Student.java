@@ -1,5 +1,3 @@
-
-// Qno 11 2019
 package OldQuestion;
 import java.io.*;;
 public class Student implements Serializable {
